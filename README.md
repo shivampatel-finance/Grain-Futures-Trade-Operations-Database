@@ -1,1 +1,1 @@
-# Grain-Futures-Trade-Operations-Database-
+Trades are recorded by specific contract month (for example, July 2023 corn) because each contract month is a separate contract with its own price and expiration date. Using a single continuous price series would value positions at the wrong contract’s price, which can make P&L inaccurate, even turning a gain into a loss. The trade-off is extra work: sourcing prices for each contract month, maintaining a contracts table, and tracking expirations and position rolls.
