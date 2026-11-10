@@ -1,0 +1,3 @@
+﻿contract_code,commodity,contract_month,exchange,contract_size,expiration_date
+ZCN23,Corn,2023-07-01,CBOT,5000,2023-07-14
+ZCU23,Corn,2023-09-01,CBOT,5000,2023-09-14
