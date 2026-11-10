@@ -8,7 +8,7 @@ FROM trades
 GROUP BY trader
 ORDER BY trader;
 
--- Query 3; Net position by contract (buys positive, sells negative)
+-- Query 3: Net position by contract (buys positive, sells negative)
 SELECT contract_code,
 	SUM(CASE WHEN side = 'Buy' THEN quantity ELSE -quantity END) AS net_position
 FROM trades
