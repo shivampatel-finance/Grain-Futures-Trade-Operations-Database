@@ -38,6 +38,8 @@ This project builds that operations layer from scratch.
 
 **Tools:** PostgreSQL, pgAdmin, Excel
 
+## Current Stage: Lite
+
 A working end-to-end version of the database for one market and two months.
 
 **Scope:** CBOT corn futures, July 2023 (ZCN23) and September 2023 (ZCU23) contracts, May–June 2023
