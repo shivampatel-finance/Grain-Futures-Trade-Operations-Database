@@ -1,5 +1,3 @@
-## Current Stage: Lite
-
 # Grain Futures Trade Operations Database
 
 A PostgreSQL database for a small CBOT grain futures trading desk, with the queries an operations analyst uses every day to track positions, calculate P&L, and catch errors before they cost money.
