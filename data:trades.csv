@@ -1,0 +1,26 @@
+﻿trade_id,trade_date,trade_time,trader,side,quantity,contract_code,price,broker
+T0001,2023-05-19,9:42,Trader A,Buy,10,ZCN23,5.55,Broker 1
+T0002,2023-05-23,10:52,Trader C,Buy,5,ZCN23,5.78,Broker 1
+T0003,2023-05-24,9:13,Trader B,Sell,15,ZCU23,5.15,Broker 1
+T0004,2023-05-30,11:52,Trader C,Buy,10,ZCN23,5.94,Broker 2
+T0005,2023-05-31,10:14,Trader A,Sell,4,ZCN23,5.84,Broker 1
+T0006,2023-06-01,9:34,Trader B,Sell,7,ZCU23,5.28,Broker 1
+T0007,2023-06-01,8:55,Trader A,Buy,13,ZCN23,5.97,Broker 2
+T0008,2023-06-02,10:47,Trader B,Buy,8,ZCN23,6.05,Broker 2
+T0009,2023-06-05,8:45,Trader C,Buy,5,ZCN23,6.10,Broker 1
+T0010,2023-06-06,11:13,Trader A,Sell,11,ZCU23,5.37,Broker 1
+T0011,2023-06-07,9:30,Trader B,Sell,8,ZCN23,6.07,Broker 1
+T0012,2023-06-09,10:21,Trader C,Buy,10,ZCU23,5.22,Broker 1
+T0013,2023-06-12,8:47,Trader C,Sell,15,ZCU23,5.34,Broker 2
+T0014,2023-06-12,11:54,Trader A,Sell,10,ZCN23,6.19,Broker 1
+T0015,2023-06-13,10:36,Trader B,Buy,12,ZCU23,5.47,Broker 1
+T0016,2023-06-15,9:16,Trader A,Sell,14,ZCN23,6.14,Broker 1
+T0017,2023-06-16,8:34,Trader C,Buy,9,ZCU23,5.77,Broker 2
+T0018,2023-06-20,11:12,Trader A,Sell,9,ZCN23,6.40,Broker 1
+T0019,2023-06-21,9:45,Trader C,Sell,15,ZCN23,6.55,Broker 1
+T0020,2023-06-23,10:11,Trader B,Buy,10,ZCU23,5.98,Broker 2
+T0021,2023-06-23,9:00,Trader A,Buy,15,ZCU23,6.04,Broker 2
+T0022,2023-06-28,11:27,Trader C,Sell,5,ZCN23,6.22,Broker 1
+T0023,2023-06-29,8:37,Trader B,Buy,7,ZCU23,5.31,Broker 1
+T0024,2023-06-29,9:14,Trader A,Buy,14,ZCN23,5.83,Broker 1
+T0025,2023-06-30,10:48,Trader C,Buy,3,ZCU23,5.17,Broker 1
