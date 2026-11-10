@@ -1,3 +1,7 @@
+DROP TABLE IF EXISTS trades;
+DROP TABLE IF EXISTS settlement_prices;
+DROP TABLE IF EXISTS contracts;
+
 CREATE TABLE contracts(
 	contract_code VARCHAR(5) PRIMARY KEY, 
 	commodity VARCHAR(8) NOT NULL,
